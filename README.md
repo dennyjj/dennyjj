@@ -1,5 +1,5 @@
-<h1 align="center">hi 👋 i'm Dennis</h1>
-<h3 align="center">a dev from Hong Kong</h3>
+<h1 align="center">hi 👋 im dennis.</h1>
+<h3 align="center">a dev from hong kong.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennyjj&label=Profile%20views&color=0e75b6&style=flat" alt="dennyjj" /> </p>
 
